@@ -1,7 +1,5 @@
 # Intro to Layer 2s: buidl on the zkEVM _(pre ETH Denver edition)_
-
 ![](./ETHDenver_2023.png)
-
 This repository contains all the code examples used in the "Introduction to L2s" workshop previous to ETH Denver. 
 
 🎬 [Watch the recording here](https://www.youtube.com/watch?v=8oBbIjgT5mM)
